@@ -1,2 +1,4 @@
 # GitHub-Tutorial
-this is my first Read Me Configure.
+This is my first Read Me Configure.
+<br>
+by:-Bishal Bhattacharjee
